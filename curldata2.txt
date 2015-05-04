@@ -1,0 +1,3 @@
+{
+	"view-name": "employees",
+	"element-scope":{"namespace-uri":"","localname":"Employee"},

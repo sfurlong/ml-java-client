@@ -1,0 +1,25 @@
+{
+"view-name": "expenses",
+"element-scope":{"namespace-uri":"", "localname":"Expenses"}, "column": [
+       {
+         "column-name": "employeeid",
+         "element-reference": {
+            "namespace-uri": "",
+            "localname": "EmployeeID",
+            "scalar-type": "int"
+} },
+       {
+         "column-name": "date",
+         "element-reference": {
+            "namespace-uri": "",
+            "localname": "Date",
+            "scalar-type": "date"
+} },
+       {
+         "column-name": "amount",
+         "element-reference": {
+            "namespace-uri": "",
+            "localname": "Amount",
+            "scalar-type": "decimal"
+} }
+] }
